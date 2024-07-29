@@ -24,9 +24,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
-<ul>
 <li><a target="_blank" href="https://www.zhihu.com/column/c_1796226143680069633">IsaacLab from Beginner to Proficient （Chinese）</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.youtube.com/@NathanWu7" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanWu7&show_icons=true&locale=en" alt="NathanWu7" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanWu7&show_icons=true&locale=en&layout=compact" alt="NathanWu7" /></p>
