@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Qiwei Wu (Nathan Wu), a student and researcher in the field of robot and AI. </h1>
-<p>Beng SCU \ Meng HITsz \ Phd student Hkustgz.</p>
+<p>Beng SCU \ Meng HIT \ Phd student Hkust.</p>
 <p>My research interests are multimodal perception, large language models for robotics, and reinforcement learning.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
