@@ -32,4 +32,4 @@
 <p><a target="_blank" href="https://www.youtube.com/@NathanWu7" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p> -->
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanWu7&show_icons=true&locale=en" alt="NathanWu7" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NathanWu7&show_icons=true&locale=en" alt="NathanWu7" /></p> -->
