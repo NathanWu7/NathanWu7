@@ -25,6 +25,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
+<li><a target="_blank" href="https://arxiv.org/abs/2602.21599">Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control (CVPR 2026)</a></li>
 <li><a target="_blank" href="https://doi.org/10.48550/arXiv.2511.05855">Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills (AAAI 2026 Oral)</a></li>
 <li><a target="_blank" href="https://www.researchgate.net/publication/398805813_Gentle_Manipulation_of_Long-Horizon_Tasks_without_Human_Demonstrations">Gentle Manipulation of Long-Horizon Tasks without Human Demonstrations (RAL)</a></li>
 <li><a target="_blank" href=https://www.researchgate.net/publication/385790991_TARS_Tactile_Affordance_in_Robot_Synesthesia_for_Dexterous_Manipulation">TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation (RAL)</a></li>
