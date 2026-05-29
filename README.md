@@ -3,6 +3,7 @@
 <p>My research interests are multimodal perception, large language models for robotics, and reinforcement learning.</p>
 
 <h2>✒️ First/Co-First Author Publications</h2>
+<li><a target="_blank" href="http://arxiv.org/abs/2605.27886">Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language (ICML 2026)</a></li>
 <li><a target="_blank" href="https://arxiv.org/abs/2602.21599">Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control (CVPR 2026)</a></li>
 <li><a target="_blank" href="https://doi.org/10.48550/arXiv.2511.05855">Gentle Manipulation Policy Learning via Demonstrations from VLM Planned Atomic Skills (AAAI 2026 Oral)</a></li>
 <li><a target="_blank" href="https://www.researchgate.net/publication/398805813_Gentle_Manipulation_of_Long-Horizon_Tasks_without_Human_Demonstrations">Gentle Manipulation of Long-Horizon Tasks without Human Demonstrations (IEEE RAL)</a></li>
