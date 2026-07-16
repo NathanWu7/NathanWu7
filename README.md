@@ -10,6 +10,9 @@
 <li><a target="_blank" href=https://www.researchgate.net/publication/385790991_TARS_Tactile_Affordance_in_Robot_Synesthesia_for_Dexterous_Manipulation">TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation (IEEE RAL)</a></li>
 <li><a target="_blank" href="https://www.researchgate.net/publication/381991261_RTTF_Rapid_Tactile_Transfer_Framework_for_Contact-Rich_Manipulation_Tasks">RTTF: Rapid Tactile Transfer Framework for Contact-Rich Manipulation Tasks (IROS2024)</a></li>
 <h2>✒️ Co-Author Publications</h2>
+<li><a target="_blank" href="https://arxiv.org/abs/2607.04434">RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies</a></li>
+<li><a target="_blank" href="https://arxiv.org/abs/2606.03335">GPU-Parallel Multi-Task Reinforcement Learning with Demonstration Guided Policy Optimization</a></li>
+<li><a target="_blank" href="https://arxiv.org/abs/2606.17833">HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning</a></li>
 <li><a target="_blank" href="https://arxiv.org/abs/2603.19709">Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis</a></li>
 <li><a target="_blank" href="https://arxiv.org/abs/2605.15971v1">OHP-RL: Online Human Preference as Guidance in Reinforcement Learning for Robot Manipulation</a></li>
 <!-- <h2>⚡️ Where to find me</h2>
