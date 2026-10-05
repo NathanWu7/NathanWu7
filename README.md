@@ -12,7 +12,7 @@
 <h2>✒️ Co-Author Publications</h2>
 <li><a target="_blank" href="https://arxiv.org/abs/2607.04434">RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies</a></li>
 <li><a target="_blank" href="https://arxiv.org/abs/2606.03335">GPU-Parallel Multi-Task Reinforcement Learning with Demonstration Guided Policy Optimization</a></li>
-<li><a target="_blank" href="https://arxiv.org/abs/2606.17833">HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning</a></li>
+<li><a target="_blank" href="https://arxiv.org/abs/2606.17833">HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning (NIPS 2026)</a></li>
 <li><a target="_blank" href="https://arxiv.org/abs/2603.19709">Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis</a></li>
 <li><a target="_blank" href="https://arxiv.org/abs/2605.15971v1">OHP-RL: Online Human Preference as Guidance in Reinforcement Learning for Robot Manipulation</a></li>
 <!-- <h2>⚡️ Where to find me</h2>
